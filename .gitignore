@@ -1,0 +1,5 @@
+target/*
+src/main/resources/gems
+src/main/resources/cache
+src/main/resources/specifications
+src/main/resources/doc
